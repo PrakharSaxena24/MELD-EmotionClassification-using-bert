@@ -1,7 +1,7 @@
-##Emotion classification using BERT on MELD dataset(text)
+## Emotion classification using BERT on MELD dataset(text)
 Created for research.
 
-###Packages used-
+### Packages used-
 ```angular2html
 Pytorch 1.8.1
 Pandas
